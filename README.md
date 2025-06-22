@@ -6,7 +6,8 @@
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LaiDream&layout=Donut Chart layout&langs_count=8&card_width=320&theme=dark" />
 </a>
 
-<img src="https://cdn.jsdelivr.net/gh/LaiDream/LaiDream/github-metrics/languages.indepth.svg" alt="languages.indepth" />
+<!-- <img src="https://cdn.jsdelivr.net/gh/LaiDream/LaiDream/github-metrics/languages.indepth.svg" alt="languages.indepth" />
+-->
 
 <!--
 **LaiDream/LaiDream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
