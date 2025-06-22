@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=LaiDream" /> </div>
+<img src="https://komarev.com/ghpvc/?username=LaiDream&label=Views&color=orange&style=flat"/>&emsp;
 
 <!--
 **LaiDream/LaiDream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
