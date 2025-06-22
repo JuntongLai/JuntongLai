@@ -2,9 +2,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=LaiDream&label=Views&color=orange&style=flat&abbreviated=true" alt="Views"/>
 
+<!--
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LaiDream&layout=donut&langs_count=8&card_width=320&theme=dark" />
 </a>
+-->
 
 <!-- <img src="https://cdn.jsdelivr.net/gh/LaiDream/LaiDream/github-metrics/languages.indepth.svg" alt="languages.indepth" />
 -->
