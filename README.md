@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Welcome to my profile!
 
 <img src="https://komarev.com/ghpvc/?username=LaiDream&label=Views&color=orange&style=flat&abbreviated=true" alt="Views"/>
 
