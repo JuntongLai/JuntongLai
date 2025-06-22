@@ -1,4 +1,6 @@
-## Hi there 👋 This is Juntong! Welcome to my profile!
+## Hi there 👋
+
+I am a passionate early career researcher (ECR) working on computational modelling in medicine. [My personal website](https://juntonglai.site/index.html)
 
 <img src="https://komarev.com/ghpvc/?username=LaiDream&label=Views&color=orange&style=flat&abbreviated=true" alt="Views"/>
 
