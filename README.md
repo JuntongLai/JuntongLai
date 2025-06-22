@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://komarev.com/ghpvc/?username=LaiDream&label=Views&color=orange&style=flat"/>&emsp;
+<img src="https://komarev.com/ghpvc/?username=LaiDream&label=Views&color=orange&style=flat&abbreviated=true" alt="Views"/>;
 
 <!--
 **LaiDream/LaiDream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
