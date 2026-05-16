@@ -5,26 +5,13 @@ Postdoctoral Research Associate (PDRA) · INSIGNEO Institute for in silico Medic
 [![Website](https://img.shields.io/badge/Website-JuntongLai.site-blue?style=flat-square&logo=googlechrome&logoColor=white)](https://juntonglai.site/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0009--5488--8619-a6ce39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-5488-8619)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-JuntongLai-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://uk.linkedin.com/in/juntonglai)
-[![Profile Views](https://komarev.com/ghpvc/?username=LaiDream&label=Views&color=orange&style=flat-square&abbreviated=true)](https://github.com/LaiDream)
+[![Profile Views](https://komarev.com/ghpvc/?username=JuntongLai&label=Views&color=orange&style=flat-square&abbreviated=true)](https://github.com/JuntongLai)
 
 ---
 
 ## About
 
-I am an early-career researcher working at the interface of **mathematical modelling**, **computational biomechanics**, and **multi-scale modelling**. My doctoral research, conducted within the [INSIGNEO Institute for in silico Medicine](https://www.sheffield.ac.uk/insigneo) at the University of Sheffield, develops mechanistic models of musculoskeletal disease — with a particular focus on **osteoarthritis**, **obesity-driven inflammation**, and **spinal biomechanics**.
-
-My work sits at the convergence of nonlinear dynamical systems, finite element analysis, and translational biomedical research, aiming to generate quantitative predictions that can guide clinical decision-making.
-
----
-
-## Research Interests
-
-| Domain | Methods |
-| --- | --- |
-| Inflammatory process modelling in osteoarthritis | Ordinary differential equations, bifurcation analysis |
-| Obesity & adipokine signalling dynamics | Nonlinear systems, sensitivity analysis |
-| Spinal tumour biomechanics | Finite element analysis |
-| In silico medicine & digital twins | Computational simulation pipelines |
+I am an early-career researcher working at the interface of **mathematical modelling**, **computational biomechanics**, and **multi-scale modelling**. My doctoral research, conducted within the [INSIGNEO Institute for in silico Medicine](https://www.sheffield.ac.uk/insigneo) at the University of Sheffield, develops mechanistic models of musculoskeletal disease and systemic disease with a particular focus on **osteoarthritis**, **obesity-driven inflammation**, and **spine biomechanics**.
 
 ---
 
