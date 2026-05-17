@@ -44,5 +44,5 @@ I am an early-career researcher working at the interface of **mathematical model
 
 ## GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=JuntongLai&show_icons=true&theme=default&hide_border=true&count_private=true)](https://github.com/JuntongLai)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=JuntongLai&layout=compact&langs_count=6&hide_border=true)](https://github.com/JuntongLai)
+[![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JuntongLai&show_icons=true&hide_border=true)](https://github.com/JuntongLai)
+[![Top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JuntongLai&layout=compact&hide_border=true)](https://github.com/JuntongLai)
