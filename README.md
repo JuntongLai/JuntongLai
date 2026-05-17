@@ -41,8 +41,3 @@ I am an early-career researcher working at the interface of **mathematical model
 **INSIGNEO Institute for in silico Medicine** — a multidisciplinary research institute of 260+ academics and clinicians pioneering computational approaches to healthcare
 
 ---
-
-## GitHub Stats
-
-[![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JuntongLai&show_icons=true&hide_border=true)](https://github.com/JuntongLai)
-[![Top languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JuntongLai&layout=compact&hide_border=true)](https://github.com/JuntongLai)
